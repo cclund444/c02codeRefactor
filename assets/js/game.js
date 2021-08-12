@@ -18,6 +18,9 @@ var enemyAttack = 12;
 //console.log(enemyNames[2]);
 //console.log(enemyNames[3]);
 
+var fight = function(enemyName) 
+{
+
 for(var i= 0; i < enemyNames.length; i++) {
     console.log(enemyNames[i]);
     console.log(i);
@@ -51,8 +54,7 @@ console.log(
     }
 
 fight(enemyRobot);
-var fight = function(enemyName) {
-    ... // fight function statements
+
 }
 var promptFight = window.prompt("Would you like to FIGHT or SKIP this battle? Enter 'FIGHT' or 'SKIP' to choose.");
 { enemyHealth = enemyHealth - playerAttack;
