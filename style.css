@@ -11,9 +11,29 @@ body {
     text-align: center;
 }
 
+h1 {
+  color: blue;
+  text-decoration-line: underline;
+  text-emphasis: bold;
+}
+
+h2 {
+  color: antiquewhite;
+}
+
 h3 {
   color: red;
   text-align: center;
+}
+
+h4 {
+  color: white;
+}
+
+title {
+  text-emphasis: bold;
+  text-decoration-line: underline;
+  color: blue;
 }
 
 .main {
@@ -24,8 +44,8 @@ h3 {
 }
 
 img {
-  max-width: 30%;  
-  height: 25%;  
+  max-width: 40%;  
+  height: 30%;  
 }
 
 .column {
@@ -37,6 +57,22 @@ img {
   content: "";
   display: table;
   clear: both;
+}
+
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.c {
+  text-align: justify;
 }
 
 
