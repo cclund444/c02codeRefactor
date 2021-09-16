@@ -59,7 +59,11 @@ img {
   clear: both;
 }
 
-div.a {
+li {
+  color: beige;
+}
+
+/* div.a {
   text-align: center;
 }
 
@@ -73,6 +77,6 @@ div.c {
 
 div.c {
   text-align: justify;
-}
+} */
 
 
