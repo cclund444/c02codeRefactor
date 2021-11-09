@@ -12,7 +12,7 @@ HTML
 CSS
 
 Website:
-
+https://cclund444.github.io/c02codeRefactor/
 
 Contibution:
 
@@ -22,4 +22,4 @@ calebcoylund444@gmail.com
 https://github.com/cclund444
 
 Side Setup notes:
-
+    Restructed to correct means of portfolio. Codeing experience and learned skills added. 
