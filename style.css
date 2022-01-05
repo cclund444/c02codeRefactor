@@ -28,6 +28,7 @@ h3 {
 
 h4 {
   color: white;
+  text-align: center;
 }
 
 title {
@@ -44,8 +45,8 @@ title {
 }
 
 img {
-  max-width: 40%;  
-  height: 30%;  
+  max-width: 25%;  
+  height: 15%;  
 }
 
 .column {
